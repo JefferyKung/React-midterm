@@ -1,0 +1,23 @@
+.body{
+    background-color: rgb(127, 224, 224);
+    font-family: 'Courier New', Courier, monospace;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+   
+        
+}
+
+.form{
+    margin: 3% 45% 1%;
+    
+    
+}
+
+.newGen{
+    text-align: center;
+    margin: 1%;
+}
+
+h1{
+    text-align: center;
+}

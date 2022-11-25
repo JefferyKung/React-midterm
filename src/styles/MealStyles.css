@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0; }
+
+.bodyB{
+    background-color: rgb(127, 224, 224);
+    font-family: 'Courier New', Courier, monospace;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+        
+}
+
+.title{
+   
+    font-size: 100px;
+    margin: 3% 25% ;
+}
+
+.reuseableComp{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    padding: 3% 10%;
+}
+
+.subT{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.App{
+  text-align: center;
+  padding-top: 4%;
+  background-color: rgb(127, 224, 224);
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+.num{
+  font-size: 36px;
+}
+
+h1{
+  font-size: 70px;
+  color: brown;
+  padding-bottom: 3px;
+}
+
+.inputAPI{
+  padding: 0% 12%;
+}
